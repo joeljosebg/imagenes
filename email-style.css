@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Lato';
+  src: url('https://automystatic.blob.core.windows.net/$web/fonts/Lato-Bold.eot?sp=r&st=2022-12-16T15:42:50Z&se=3000-12-16T23:42:50Z&spr=https&sv=2021-06-08&sr=b&sig=XJXz79%2FGFZ4IaRxoZxodwypUdpu4DFkcGKGmp6R4hD0%3D'); /* IE9 Compat Modes */
+  src: url('https://automystatic.blob.core.windows.net/$web/fonts/Lato-Bold.eot?sp=r&st=2022-12-16T15:42:50Z&se=3000-12-16T23:42:50Z&spr=https&sv=2021-06-08&sr=b&sig=XJXz79%2FGFZ4IaRxoZxodwypUdpu4DFkcGKGmp6R4hD0%3D&iefix') format('embedded-opentype'), /* IE6-IE8 */
+      url('https://automystatic.blob.core.windows.net/$web/fonts/Lato-Bold.woff2?sp=r&st=2022-12-16T15:43:34Z&se=3000-12-16T23:43:34Z&spr=https&sv=2021-06-08&sr=b&sig=vR3qNKEQ8IkII%2BeAC%2BcSCbVGj84BNIHzmEyPHA%2BmkSY%3D') format('woff2'), /* Modern Browsers */
+      url('https://automystatic.blob.core.windows.net/$web/fonts/Lato-Bold.woff?sp=r&st=2022-12-16T15:43:22Z&se=3000-12-16T23:43:22Z&spr=https&sv=2021-06-08&sr=b&sig=9ieft3Y0%2BZlcSLbWdVAh2%2FEsJxDteP6nX7e1eKVaJi4%3D') format('woff'), /* Modern Browsers */
+      url('https://automystatic.blob.core.windows.net/$web/fonts/Lato-Bold.ttf?sp=r&st=2022-12-16T15:43:09Z&se=3000-12-16T23:43:09Z&spr=https&sv=2021-06-08&sr=b&sig=qzQNdZQ1TLsPkPPeel9%2F3Vl15S6jR204wiwe5ksFARU%3D') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+  text-rendering: optimizeLegibility;
+}
